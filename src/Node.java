@@ -9,7 +9,7 @@ public class Node {
     // Constructors
     public Node(){};
     public Node(String key){
-        this.key = key; //???? TODO buna bi bak
+        this.key = key; 
         leftChild = null;
         rightChild = null;
         parent = null;
